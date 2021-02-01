@@ -1,0 +1,6 @@
+D:\AIUB\6th Semester\OOP2\LAB 2 Q2\LAB 2 Q2\bin\Debug\LAB 2 Q2.exe.config
+D:\AIUB\6th Semester\OOP2\LAB 2 Q2\LAB 2 Q2\bin\Debug\LAB 2 Q2.exe
+D:\AIUB\6th Semester\OOP2\LAB 2 Q2\LAB 2 Q2\bin\Debug\LAB 2 Q2.pdb
+D:\AIUB\6th Semester\OOP2\LAB 2 Q2\LAB 2 Q2\obj\Debug\LAB 2 Q2.csproj.CoreCompileInputs.cache
+D:\AIUB\6th Semester\OOP2\LAB 2 Q2\LAB 2 Q2\obj\Debug\LAB 2 Q2.exe
+D:\AIUB\6th Semester\OOP2\LAB 2 Q2\LAB 2 Q2\obj\Debug\LAB 2 Q2.pdb
