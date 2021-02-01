@@ -1,0 +1,6 @@
+D:\AIUB\6th Semester\OOP2\LAB 6 Triangle\LAB 6 Triangle\bin\Debug\LAB 6 Triangle.exe.config
+D:\AIUB\6th Semester\OOP2\LAB 6 Triangle\LAB 6 Triangle\bin\Debug\LAB 6 Triangle.exe
+D:\AIUB\6th Semester\OOP2\LAB 6 Triangle\LAB 6 Triangle\bin\Debug\LAB 6 Triangle.pdb
+D:\AIUB\6th Semester\OOP2\LAB 6 Triangle\LAB 6 Triangle\obj\Debug\LAB 6 Triangle.csproj.CoreCompileInputs.cache
+D:\AIUB\6th Semester\OOP2\LAB 6 Triangle\LAB 6 Triangle\obj\Debug\LAB 6 Triangle.exe
+D:\AIUB\6th Semester\OOP2\LAB 6 Triangle\LAB 6 Triangle\obj\Debug\LAB 6 Triangle.pdb
